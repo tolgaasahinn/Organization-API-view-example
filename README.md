@@ -31,7 +31,8 @@ When you start your server on docker container it is going to lcreate a director
 
 
 To load data from fixtures:
-    $   python manage.py loaddata user_data.json
+
+    $    python manage.py loaddata user_data.json
     $   python manage.py loaddata organization_data.json
 
 
