@@ -29,6 +29,7 @@ bellow code it will create a container on your desktop then start to server
     
 When you start your server on docker container it is going to lcreate a directory named code  then workdir will be code then coppy all files to code directory then dependencies will load from requirements.txt file after that your sever will be starts on 127.0.0.1:8000 port
 
+
 To load data from fixtures:
     $   python manage.py loaddata user_data.json
     $   python manage.py loaddata organization_data.json
