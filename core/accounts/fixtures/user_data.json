@@ -1,0 +1,38 @@
+[
+    {
+        "model":"accounts.UserModel",
+        "pk":2,
+        "fields":{
+            "username":"example2",
+            "first_name":"John",
+            "last_name":"Smith",
+            "email":"example@example.com",
+            "password":"password123.."
+        }
+        
+    },
+    {
+        "model":"accounts.UserModel",
+        "pk":3,
+        "fields":{
+            "username":"example3",
+            "first_name":"mike",
+            "last_name":"Smith",
+            "email":"example@example.com",
+            "password":"password123.."
+        }
+        
+    },
+    {
+        "model":"accounts.UserModel",
+        "pk":4,
+        "fields":{
+            "username":"example4",
+            "first_name":"examples",
+            "last_name":"Smith",
+            "email":"example@example.com",
+            "password":"password123.."
+        }
+        
+    }
+]

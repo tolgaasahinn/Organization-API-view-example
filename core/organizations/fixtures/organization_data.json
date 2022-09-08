@@ -1,0 +1,38 @@
+[
+    {
+        "model": "organizations.Organization",
+        "pk":1,
+        "fields":{
+            "organisations_user":2,
+            "organisation_name":"example",
+            "organization_type":"KOBİ",
+            "country": "US",
+            "organization_url":"http://example.org",
+            "number_of_employees":125
+        }
+    },
+    {
+        "model": "organizations.Organization",
+        "pk":2,
+        "fields":{
+            "organisations_user":3,
+            "organisation_name":"example2",
+            "organization_type":"KOBİ",
+            "country": "TR",
+            "organization_url":"http://example.org",
+            "number_of_employees":125
+        }
+    },
+    {
+        "model": "organizations.Organization",
+        "pk":3,
+        "fields":{
+            "organisations_user":4,
+            "organisation_name":"exampleqwe",
+            "organization_type":"KOBİ",
+            "country": "TR",
+            "organization_url":"http://examsasple.org",
+            "number_of_employees":125
+        }
+    }
+]
